@@ -1,0 +1,24 @@
+{
+  "name": "symdiff-jsx",
+  "version": "0.0.1",
+  "description": "Extracts classes from JSX files",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -r test/chai.js test/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/symdiff/symdiff-jsx.git"
+  },
+  "keywords": [
+    "symdiff",
+    "plugin",
+    "jsx"
+  ],
+  "author": "Nikolaus Piccolotto <hello@npiccolotto.com>",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/symdiff/symdiff-jsx/issues"
+  },
+  "homepage": "https://symdiff.github.io"
+}
